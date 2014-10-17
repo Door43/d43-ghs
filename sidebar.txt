@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ghs:home|Door43 (ghs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ghs|d43-ghs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ghs/archive/master.zip|d43-ghs.zip]]
+
+**Recent Changes**
+{{changes>ns = ghs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ghs|Ethnologue data]]
+
